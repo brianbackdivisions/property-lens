@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { Map as MapLibreMap, StyleSpecification } from "maplibre-gl";
 import type { Property, PhotoPoint, CaptureStatus } from "@/lib/types";
+import { assetPath } from "@/lib/assetPath";
 
 // Inline MapLibre style specs using free raster tiles — no API key required
 const MAP_STYLE_STREETS: StyleSpecification = {
@@ -267,7 +268,7 @@ export default function PropertyMap(props: Props) {
       if (!existing) {
         map.addSource(sourceId, {
           type: "image",
-          url: detailProps.property.diagram_image,
+          url: assetPath(detailProps.property.diagram_image),
           coordinates: [
             [minLng, maxLat],
             [maxLng, maxLat],

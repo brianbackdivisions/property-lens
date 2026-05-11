@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import type { PhotoPoint, AIVerdict } from "@/lib/types";
+import { assetPath } from "@/lib/assetPath";
 
 interface Props {
   point: PhotoPoint;
@@ -89,7 +90,7 @@ export default function PhotoPointCard({ point, onClose }: Props) {
                   onClick={() => setLightbox(true)}
                 >
                   <Image
-                    src={capture.photo_url}
+                    src={assetPath(capture.photo_url)}
                     alt={point.slot.display_name}
                     fill
                     style={{ objectFit: "contain" }}
@@ -221,7 +222,7 @@ export default function PhotoPointCard({ point, onClose }: Props) {
           </button>
           <div className="relative w-full h-full max-w-5xl max-h-screen p-8">
             <Image
-              src={capture.photo_url}
+              src={assetPath(capture.photo_url)}
               alt={point.slot.display_name}
               fill
               style={{ objectFit: "contain" }}

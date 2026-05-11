@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import type { PhotoPoint, CaptureStatus } from "@/lib/types";
+import { assetPath } from "@/lib/assetPath";
 
 interface Props {
   points: PhotoPoint[];
@@ -53,7 +54,7 @@ export default function SlotList({ points, activeSlot, onSelectSlot }: Props) {
             <div className="w-12 h-9 rounded overflow-hidden bg-gray-100 flex-shrink-0 relative">
               {photo ? (
                 <Image
-                  src={photo}
+                  src={assetPath(photo)}
                   alt={point.slot.display_name}
                   fill
                   style={{ objectFit: "cover" }}
