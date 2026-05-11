@@ -1,0 +1,2492 @@
+[
+  {
+    "property_id": "01_kohls_west_chester",
+    "name": "Kohl's West Chester",
+    "address": "7935 Tylersville Rd, West Chester Township, OH 45069",
+    "customer": "Kohl's",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 0,
+    "center_lat": 39.3513183677849,
+    "center_lng": -84.36186294518323,
+    "parcel_polygon": [
+      [
+        -84.36249547773868,
+        39.35150174930619
+      ],
+      [
+        -84.36260140209455,
+        39.35052945977758
+      ],
+      [
+        -84.36060886174208,
+        39.3504140911652
+      ],
+      [
+        -84.36050718499462,
+        39.35195528237259
+      ],
+      [
+        -84.36246926679081,
+        39.35200787478165
+      ],
+      [
+        -84.36249547773868,
+        39.35150174930619
+      ]
+    ],
+    "photo_points": [
+      {
+        "point_id": "01_kohls_west_chester-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.35151197634806,
+        "lng": -84.3624068954504,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.35152731443924,
+        "lng": -84.36237089589359,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.35139897880091,
+        "lng": -84.36058587278458,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.35137855329339,
+        "lng": -84.36057647874948,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.35183888987548,
+        "lng": -84.36055504776509,
+        "camera_bearing": 180,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.35195735217098,
+        "lng": -84.36234927945989,
+        "camera_bearing": 90,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.35055394345129,
+        "lng": -84.3625755542621,
+        "camera_bearing": 90,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.35045092215572,
+        "lng": -84.36069865341378,
+        "camera_bearing": 270,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.35047352626354,
+        "lng": -84.36069899381668,
+        "camera_bearing": 0,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "01_kohls_west_chester-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.35161882616391,
+        "lng": -84.36149966136816,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "diagram_image": "/photos/01_kohls_west_chester/kohls-tylersville-diagram.png",
+    "folder_id": "01_kohls_west_chester"
+  },
+  {
+    "property_id": "02_kroger_donnermeyer_bellevue",
+    "name": "Kroger Donnermeyer",
+    "address": "53 Donnermeyer Dr, Bellevue, KY 41073",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 135,
+    "center_lat": 39.09884658042676,
+    "center_lng": -84.48189935168911,
+    "parcel_polygon": [
+      [
+        -84.48261531558461,
+        39.09837988231682
+      ],
+      [
+        -84.4823149606261,
+        39.09855299225079
+      ],
+      [
+        -84.48189804317961,
+        39.09808239247444
+      ],
+      [
+        -84.48075129628121,
+        39.09872549952565
+      ],
+      [
+        -84.48117839083571,
+        39.09918420423423
+      ],
+      [
+        -84.4809455995336,
+        39.09931805860291
+      ],
+      [
+        -84.48154930248317,
+        39.09989803655735
+      ],
+      [
+        -84.48322594109342,
+        39.09909827556185
+      ],
+      [
+        -84.48261531558461,
+        39.09837988231682
+      ]
+    ],
+    "photo_points": [
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.09857534778218,
+        "lng": -84.4822703506632,
+        "camera_bearing": 45,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.09856746994503,
+        "lng": -84.48226424044508,
+        "camera_bearing": 315,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.09918849778784,
+        "lng": -84.48119240549126,
+        "camera_bearing": 225,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.09916017658956,
+        "lng": -84.48119168730433,
+        "camera_bearing": 135,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.0986989533687,
+        "lng": -84.48081364550016,
+        "camera_bearing": 315,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.09815818764266,
+        "lng": -84.48178591089706,
+        "camera_bearing": 45,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.09883686757057,
+        "lng": -84.48297770975392,
+        "camera_bearing": 45,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.09966566261867,
+        "lng": -84.48147857519403,
+        "camera_bearing": 225,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.09966566261867,
+        "lng": -84.48147857519403,
+        "camera_bearing": 135,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "02_kroger_donnermeyer_bellevue-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.09887982173623,
+        "lng": -84.48160668834345,
+        "camera_bearing": 315,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "diagram_image": "/photos/02_kroger_donnermeyer_bellevue/kroger-donnermeyer-diagram.png",
+    "folder_id": "02_kroger_donnermeyer_bellevue"
+  },
+  {
+    "property_id": "03_pavilion_newport",
+    "name": "Pavilion Newport",
+    "address": "130 Pavilion Pkwy, Newport, KY 41071",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 90,
+    "center_lat": 39.09035168512681,
+    "center_lng": -84.47780057260071,
+    "parcel_polygon": [
+      [
+        -84.4785397458488,
+        39.09114444271226
+      ],
+      [
+        -84.47983996251915,
+        39.09058688807517
+      ],
+      [
+        -84.47928018621283,
+        39.0899217981863
+      ],
+      [
+        -84.47918970641435,
+        39.08953143437099
+      ],
+      [
+        -84.47835713116625,
+        39.08951101193242
+      ],
+      [
+        -84.47749931617591,
+        39.08988867384802
+      ],
+      [
+        -84.47747687697712,
+        39.08956889927423
+      ],
+      [
+        -84.47665497254862,
+        39.08958013409347
+      ],
+      [
+        -84.47620042797175,
+        39.08975276081968
+      ],
+      [
+        -84.47625472038459,
+        39.08990057618846
+      ],
+      [
+        -84.47648669710564,
+        39.09022165301711
+      ],
+      [
+        -84.47669899608833,
+        39.0904391630183
+      ],
+      [
+        -84.47702710490968,
+        39.09072974958269
+      ],
+      [
+        -84.4777006190815,
+        39.09120853791261
+      ],
+      [
+        -84.47820633597009,
+        39.09153689782353
+      ],
+      [
+        -84.47865718898868,
+        39.09131158358832
+      ],
+      [
+        -84.4785397458488,
+        39.09114444271226
+      ]
+    ],
+    "photo_points": [
+      {
+        "point_id": "03_pavilion_newport-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.08991250707011,
+        "lng": -84.47743084181137,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-01-001",
+            "photo_url": "/photos/03_pavilion_newport/PP01.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.96,
+            "ai_notes": "Front drive lane clean, island beds maintained."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.0899255483646,
+        "lng": -84.47746238981284,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-02-001",
+            "photo_url": "/photos/03_pavilion_newport/PP02.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.91,
+            "ai_notes": "Side turf strip continuous, curb edged."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.0912958172248,
+        "lng": -84.4785507864712,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-03-001",
+            "photo_url": "/photos/03_pavilion_newport/PP03.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.94,
+            "ai_notes": "Storefront beds maintained, walkway clear, entrance visible."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.09132583052975,
+        "lng": -84.4785470601038,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-04-001",
+            "photo_url": "/photos/03_pavilion_newport/PP04.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.89,
+            "ai_notes": "Front lot even, islands maintained."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.09145770647446,
+        "lng": -84.47827941427764,
+        "camera_bearing": 270,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-05-001",
+            "photo_url": "/photos/03_pavilion_newport/PP05.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "flag_for_review",
+            "ai_confidence": 0.72,
+            "ai_notes": "Boundary strip partially visible — reposition recommended for better coverage."
+          }
+        ],
+        "capture_status": "flagged"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.08982003258232,
+        "lng": -84.47623090408008,
+        "camera_bearing": 0,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-06-001",
+            "photo_url": "/photos/03_pavilion_newport/PP06.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.88,
+            "ai_notes": "Road frontage strip maintained end-to-end."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.0895513623616,
+        "lng": -84.47887365577299,
+        "camera_bearing": 0,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-07-001",
+            "photo_url": "/photos/03_pavilion_newport/PP07.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.93,
+            "ai_notes": "Rear turf mowed, dock approach clear."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.09062122705754,
+        "lng": -84.47950901605032,
+        "camera_bearing": 180,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-08-001",
+            "photo_url": "/photos/03_pavilion_newport/PP08.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.9,
+            "ai_notes": "Rear curb edged, beds maintained."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.09062211618325,
+        "lng": -84.47957586634404,
+        "camera_bearing": 90,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-09-001",
+            "photo_url": "/photos/03_pavilion_newport/PP09.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "defect",
+            "ai_confidence": 0.85,
+            "ai_notes": "Weeds visible at building base near loading dock."
+          }
+        ],
+        "capture_status": "captured_recent"
+      },
+      {
+        "point_id": "03_pavilion_newport-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.09027961473441,
+        "lng": -84.47759095546743,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [
+          {
+            "capture_id": "newport-pp-10-001",
+            "photo_url": "/photos/03_pavilion_newport/PP10.jpeg",
+            "captured_at": "2026-05-11T09:30:00Z",
+            "provider_name": "J. Martinez",
+            "ai_verdict": "complete",
+            "ai_confidence": 0.97,
+            "ai_notes": "Full storefront in frame, beds maintained, entrance clear."
+          }
+        ],
+        "capture_status": "captured_recent"
+      }
+    ],
+    "diagram_image": "/photos/03_pavilion_newport/kroger-pavilion-diagram.png",
+    "folder_id": "03_pavilion_newport"
+  },
+  {
+    "property_id": "04_paxton_cincinnati",
+    "name": "Paxton Cincinnati",
+    "address": "3760 Paxton Ave, Cincinnati, OH 45209",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 270,
+    "center_lat": 39.144690685451636,
+    "center_lng": -84.4302047498604,
+    "parcel_polygon": null,
+    "photo_points": [
+      {
+        "point_id": "04_paxton_cincinnati-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.14523627027173,
+        "lng": -84.43023409101244,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.14521379026058,
+        "lng": -84.43021687901981,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.14434345694356,
+        "lng": -84.43038596101785,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.14433227294519,
+        "lng": -84.4303465774844,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.14454288077765,
+        "lng": -84.43249130631001,
+        "camera_bearing": 90,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.14511199877914,
+        "lng": -84.43153620387791,
+        "camera_bearing": 225,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.14503712155322,
+        "lng": -84.42875818296976,
+        "camera_bearing": 180,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.14416172004108,
+        "lng": -84.42886144933381,
+        "camera_bearing": 0,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.14418389076221,
+        "lng": -84.42884406788207,
+        "camera_bearing": 270,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "04_paxton_cincinnati-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.14474345218198,
+        "lng": -84.43037277969593,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "folder_id": "04_paxton_cincinnati"
+  },
+  {
+    "property_id": "05_beechmont_cincinnati",
+    "name": "Beechmont Cincinnati",
+    "address": "7580 Beechmont Ave, Cincinnati, OH 45255",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 180,
+    "center_lat": 39.074224502596735,
+    "center_lng": -84.34760567111574,
+    "parcel_polygon": [
+      [
+        -84.34700425589989,
+        39.07328718688795
+      ],
+      [
+        -84.34695151267765,
+        39.07328553201975
+      ],
+      [
+        -84.34627345589983,
+        39.07327324041729
+      ],
+      [
+        -84.34626576635894,
+        39.07385744773641
+      ],
+      [
+        -84.34558191369435,
+        39.07385161547306
+      ],
+      [
+        -84.34561572933308,
+        39.07417172653368
+      ],
+      [
+        -84.34545845261839,
+        39.07483160775661
+      ],
+      [
+        -84.34606830759378,
+        39.07490226010358
+      ],
+      [
+        -84.34662020710614,
+        39.07493650970553
+      ],
+      [
+        -84.34734305330133,
+        39.07502047163239
+      ],
+      [
+        -84.34750602134035,
+        39.07506007031731
+      ],
+      [
+        -84.347631119728,
+        39.07521410689781
+      ],
+      [
+        -84.34772533671423,
+        39.07519879749564
+      ],
+      [
+        -84.34799919606566,
+        39.07510551923927
+      ],
+      [
+        -84.34842698490628,
+        39.07511806499327
+      ],
+      [
+        -84.34897773375614,
+        39.07513593626209
+      ],
+      [
+        -84.34898288563312,
+        39.07483333087222
+      ],
+      [
+        -84.34890260829432,
+        39.07483626343289
+      ],
+      [
+        -84.34890792203909,
+        39.07473635364186
+      ],
+      [
+        -84.34889713627953,
+        39.07406350117356
+      ],
+      [
+        -84.34915602760532,
+        39.07405068612476
+      ],
+      [
+        -84.34916715154183,
+        39.07346876089338
+      ],
+      [
+        -84.3489027075982,
+        39.07333607076455
+      ],
+      [
+        -84.34848378793346,
+        39.07332583356297
+      ],
+      [
+        -84.34850326768355,
+        39.07294603934463
+      ],
+      [
+        -84.34699632262266,
+        39.07292744994152
+      ],
+      [
+        -84.34700425589989,
+        39.07328718688795
+      ]
+    ],
+    "photo_points": [
+      {
+        "point_id": "05_beechmont_cincinnati-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.07398163098326,
+        "lng": -84.34894755214059,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.07398163098326,
+        "lng": -84.34894755214059,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.07396430008348,
+        "lng": -84.34630355750218,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.07398290250513,
+        "lng": -84.34632374192614,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.07294113434894,
+        "lng": -84.34728115853237,
+        "camera_bearing": 0,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.07333335125435,
+        "lng": -84.34893050904283,
+        "camera_bearing": 90,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.07485771188611,
+        "lng": -84.34877400345042,
+        "camera_bearing": 90,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.07475486598948,
+        "lng": -84.34550093792417,
+        "camera_bearing": 270,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.07480385444634,
+        "lng": -84.345529392011,
+        "camera_bearing": 180,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "05_beechmont_cincinnati-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.07386499369594,
+        "lng": -84.34815794674188,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "diagram_image": "/photos/05_beechmont_cincinnati/kroger-beechmont-diagram.png",
+    "folder_id": "05_beechmont_cincinnati"
+  },
+  {
+    "property_id": "06_corry_cincinnati",
+    "name": "Corry Cincinnati",
+    "address": "1 W Corry St, Cincinnati, OH 45219",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 270,
+    "center_lat": 39.12839800641415,
+    "center_lng": -84.50961546406965,
+    "parcel_polygon": null,
+    "photo_points": [
+      {
+        "point_id": "06_corry_cincinnati-pp-01",
+        "slot_id": "PP-01",
+        "lat": 39.12897302774639,
+        "lng": -84.50972204730557,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-02",
+        "slot_id": "PP-02",
+        "lat": 39.1289677396221,
+        "lng": -84.50973722816057,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-03",
+        "slot_id": "PP-03",
+        "lat": 39.12793590804976,
+        "lng": -84.50981536476728,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-04",
+        "slot_id": "PP-04",
+        "lat": 39.12793590804976,
+        "lng": -84.50981536476728,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-05",
+        "slot_id": "PP-05",
+        "lat": 39.12797657141469,
+        "lng": -84.51057195678908,
+        "camera_bearing": 90,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-06",
+        "slot_id": "PP-06",
+        "lat": 39.12897667664029,
+        "lng": -84.51047579534766,
+        "camera_bearing": 180,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-07",
+        "slot_id": "PP-07",
+        "lat": 39.12887252289971,
+        "lng": -84.50823640783887,
+        "camera_bearing": 180,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-08",
+        "slot_id": "PP-08",
+        "lat": 39.1278758223236,
+        "lng": -84.50898247964295,
+        "camera_bearing": 0,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-09",
+        "slot_id": "PP-09",
+        "lat": 39.12787795418245,
+        "lng": -84.50899843201971,
+        "camera_bearing": 270,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "06_corry_cincinnati-pp-10",
+        "slot_id": "PP-10",
+        "lat": 39.12858793321278,
+        "lng": -84.50979956405753,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "folder_id": "06_corry_cincinnati"
+  },
+  {
+    "property_id": "07_bryan_station_lexington",
+    "name": "Bryan Station Lexington",
+    "address": "1650 Bryan Station Rd, Lexington, KY 40505",
+    "customer": "Kroger",
+    "archetype": "standard_big_box",
+    "site_condition": "TURF_PRIMARY",
+    "storefront_bearing": 0,
+    "center_lat": 38.059054602734804,
+    "center_lng": -84.46149749211052,
+    "parcel_polygon": [
+      [
+        -84.46114704987384,
+        38.05991483857406
+      ],
+      [
+        -84.46119501962471,
+        38.05996161551976
+      ],
+      [
+        -84.46119625706254,
+        38.05996081775127
+      ],
+      [
+        -84.46124338756167,
+        38.05993037531196
+      ],
+      [
+        -84.46122456321461,
+        38.05991302501643
+      ],
+      [
+        -84.46120930514309,
+        38.059893608716
+      ],
+      [
+        -84.4611979656218,
+        38.0598725807452
+      ],
+      [
+        -84.46119081271054,
+        38.05985043252944
+      ],
+      [
+        -84.46118801084963,
+        38.05982768090763
+      ],
+      [
+        -84.46118798414251,
+        38.05982475832494
+      ],
+      [
+        -84.4611879710189,
+        38.0598233763154
+      ],
+      [
+        -84.46117575963207,
+        38.05964903611807
+      ],
+      [
+        -84.46117554021457,
+        38.05964606523424
+      ],
+      [
+        -84.46117555132612,
+        38.05964439578266
+      ],
+      [
+        -84.46117359605724,
+        38.05962123450236
+      ],
+      [
+        -84.46116673137715,
+        38.05959866322417
+      ],
+      [
+        -84.46115515630125,
+        38.0595773311602
+      ],
+      [
+        -84.46113920190162,
+        38.05955784583972
+      ],
+      [
+        -84.46073497796863,
+        38.0591424316937
+      ],
+      [
+        -84.4610844371852,
+        38.05892944244124
+      ],
+      [
+        -84.4610868569447,
+        38.05895129922995
+      ],
+      [
+        -84.46147509169897,
+        38.05934121771638
+      ],
+      [
+        -84.46172941166601,
+        38.05918284177008
+      ],
+      [
+        -84.46194450254976,
+        38.05939847307955
+      ],
+      [
+        -84.4625472921509,
+        38.05902265274617
+      ],
+      [
+        -84.4628050565834,
+        38.05928108367596
+      ],
+      [
+        -84.4629588942104,
+        38.05918500528438
+      ],
+      [
+        -84.46322275510695,
+        38.05944945950627
+      ],
+      [
+        -84.46338908560293,
+        38.05961623503271
+      ],
+      [
+        -84.46343068717877,
+        38.059590386689
+      ],
+      [
+        -84.46299001917298,
+        38.05913958182612
+      ],
+      [
+        -84.46305006646654,
+        38.05910289678518
+      ],
+      [
+        -84.46344071477249,
+        38.05886423677196
+      ],
+      [
+        -84.46331059978316,
+        38.05873118995866
+      ],
+      [
+        -84.46324999169504,
+        38.05866921572937
+      ],
+      [
+        -84.46320517664118,
+        38.05878357409019
+      ],
+      [
+        -84.4629136971869,
+        38.05896164084299
+      ],
+      [
+        -84.46275361388676,
+        38.05905943425077
+      ],
+      [
+        -84.46246709688651,
+        38.05876610029613
+      ],
+      [
+        -84.46262923277973,
+        38.05866698276382
+      ],
+      [
+        -84.46229126104924,
+        38.05831689061724
+      ],
+      [
+        -84.46196743659286,
+        38.05798444087503
+      ],
+      [
+        -84.46154401751856,
+        38.05754171387094
+      ],
+      [
+        -84.46143421937637,
+        38.05742690622537
+      ],
+      [
+        -84.46137553342385,
+        38.05736554467324
+      ],
+      [
+        -84.46100521130994,
+        38.05760719891408
+      ],
+      [
+        -84.46070953169885,
+        38.05780473065517
+      ],
+      [
+        -84.46050806248529,
+        38.05793021578193
+      ],
+      [
+        -84.4603204053369,
+        38.05805070156247
+      ],
+      [
+        -84.460392318534,
+        38.05811985626154
+      ],
+      [
+        -84.46024717456943,
+        38.05821265419328
+      ],
+      [
+        -84.46009443358683,
+        38.05831772195674
+      ],
+      [
+        -84.45993223195174,
+        38.05842420752159
+      ],
+      [
+        -84.45977587410862,
+        38.05852911110622
+      ],
+      [
+        -84.45973412658199,
+        38.05855714137158
+      ],
+      [
+        -84.45986113477382,
+        38.05867929826111
+      ],
+      [
+        -84.46014586469798,
+        38.0589509842689
+      ],
+      [
+        -84.46033590122265,
+        38.05913343547389
+      ],
+      [
+        -84.46051259174011,
+        38.05930392986222
+      ],
+      [
+        -84.46079441586875,
+        38.05957191309264
+      ],
+      [
+        -84.46096659279934,
+        38.0597388706842
+      ],
+      [
+        -84.46114704987384,
+        38.05991483857406
+      ]
+    ],
+    "photo_points": [
+      {
+        "point_id": "07_bryan_station_lexington-pp-01",
+        "slot_id": "PP-01",
+        "lat": 38.05885116420895,
+        "lng": -84.46117621371441,
+        "camera_bearing": 270,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-01",
+          "display_name": "Front Lot — Drive Lane View",
+          "display_name_short": "Front Lot (drive view)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the LEFT corner of the front parking area (left as a customer would see it facing the storefront).",
+          "facing_instruction": "Face along the front of the store, looking from left to right across the storefront toward the right side of the building.",
+          "provider_full_instruction": "Stand at the left corner of the front parking lot (left as a customer faces the storefront). Face across the front of the store, looking to the right. Capture the front drive lane, parking islands, and the right end of the building in one shot.",
+          "frame_targets": [
+            "Front drive lane (running along the storefront)",
+            "Parking islands",
+            "Far corner of the building",
+            "Front landscape beds running along building base"
+          ],
+          "why_it_matters": "Establishes the condition of the front drive lane and parking islands — the first impression for any customer arriving by car."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-02",
+        "slot_id": "PP-02",
+        "lat": 38.05884994536696,
+        "lng": -84.46116004757202,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-02",
+          "display_name": "Side Transition (Near)",
+          "display_name_short": "Side Transition",
+          "zone_default": "A or C (boundary)",
+          "standpoint_instruction": "From the same standpoint as PP-01 (left front corner), turn left so you are facing along the LEFT side of the property toward the rear.",
+          "facing_instruction": "Face along the left side of the store, looking from the front of the property toward the rear.",
+          "provider_full_instruction": "From the same spot as Photo 1, turn left so you are looking along the left side of the property toward the rear. Capture the left side turf strip, any landscape beds along the building side, and the curb line running toward the rear.",
+          "frame_targets": [
+            "Side turf strip",
+            "Side landscape beds (if present)",
+            "Side curb line continuing toward rear"
+          ],
+          "why_it_matters": "Documents the condition of the side property transition — often missed in routine inspections."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-03",
+        "slot_id": "PP-03",
+        "lat": 38.05841062135375,
+        "lng": -84.46022352756896,
+        "camera_bearing": 90,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-03",
+          "display_name": "Storefront — Wide Angle (Near End)",
+          "display_name_short": "Storefront (wide)",
+          "zone_default": "A",
+          "standpoint_instruction": "Stand at the RIGHT corner of the front parking area (right as a customer faces the storefront), close to the building wall where the parking lot meets the building.",
+          "facing_instruction": "Face along the front of the store, looking from right to left across the storefront toward the left end of the building.",
+          "provider_full_instruction": "Stand at the right corner of the front parking lot, close to the building (right as a customer faces the storefront). Face across the front of the store, looking to the left. Capture the full length of the storefront, front landscape beds, and the main entrance in one shot.",
+          "frame_targets": [
+            "Storefront extending the length of the building",
+            "Front landscape beds along the base of the building",
+            "Main entrance",
+            "Walkway between parking and building"
+          ],
+          "why_it_matters": "Wide establishing shot of the customer's view of the property — captures beds, entrance, and walkway condition in a single frame."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-04",
+        "slot_id": "PP-04",
+        "lat": 38.05841413560782,
+        "lng": -84.46025313991034,
+        "camera_bearing": 0,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-04",
+          "display_name": "Front Lot — Road View",
+          "display_name_short": "Front Lot (road view)",
+          "zone_default": "A",
+          "standpoint_instruction": "From the same standpoint as PP-03 (right front corner), turn 180 degrees so you are facing away from the building toward the public road.",
+          "facing_instruction": "Face away from the storefront, toward the road frontage. The storefront should now be behind you.",
+          "provider_full_instruction": "From the same spot as Photo 3, turn around to face the road (the storefront is now behind you). Capture the front turf, parking islands, and the road-facing curb line.",
+          "frame_targets": [
+            "Front turf",
+            "Parking islands",
+            "Road-facing curb line",
+            "Transition into Zone B road frontage"
+          ],
+          "why_it_matters": "Captures the road-facing presentation of the front lot — the view drivers see as they approach the property."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-05",
+        "slot_id": "PP-05",
+        "lat": 38.0587335390947,
+        "lng": -84.4632946196675,
+        "camera_bearing": 90,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-05",
+          "display_name": "Road Frontage — Boundary View",
+          "display_name_short": "Road Frontage (boundary)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the RIGHT corner of the property where it meets the public road (right as a customer faces the storefront).",
+          "facing_instruction": "Face into the property, looking from the road back toward the storefront along the right-side boundary.",
+          "provider_full_instruction": "Stand at the right corner of the property where it meets the road (right as a customer faces the storefront). Face into the property, looking back toward the building along the right-side boundary. Capture the right-side boundary landscape strip and the transition into the front lot.",
+          "frame_targets": [
+            "Side boundary turf or landscape strip",
+            "Transition into front parking / front lot",
+            "Side property line"
+          ],
+          "why_it_matters": "Documents the property boundary condition visible from the road — the side strip that frames the customer's approach."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-06",
+        "slot_id": "PP-06",
+        "lat": 38.05933468677883,
+        "lng": -84.46199767046599,
+        "camera_bearing": 270,
+        "zone": "B",
+        "slot": {
+          "slot_id": "PP-06",
+          "display_name": "Road Frontage — Full Strip",
+          "display_name_short": "Road Frontage (full)",
+          "zone_default": "B",
+          "standpoint_instruction": "Stand at the LEFT corner of the property where it meets the road (left as a customer faces the storefront — the opposite corner from PP-05).",
+          "facing_instruction": "Face along the road frontage, looking from the left corner toward the right corner — across the entire road-side landscape strip.",
+          "provider_full_instruction": "Stand at the left road corner of the property (left as a customer faces the storefront). Face along the road frontage, looking toward the right corner. Capture the full length of the landscape strip running between the property and the road.",
+          "frame_targets": [
+            "Full road-frontage landscape strip end-to-end",
+            "Road curb line",
+            "Perimeter turf"
+          ],
+          "why_it_matters": "The single frame that shows whether the road-facing landscape strip is maintained from end to end."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-07",
+        "slot_id": "PP-07",
+        "lat": 38.05760723214613,
+        "lng": -84.46141251467704,
+        "camera_bearing": 270,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-07",
+          "display_name": "Back of Store — Approach 1",
+          "display_name_short": "Back of Store (approach 1)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk around to the LEFT rear corner of the property (left as a customer faces the storefront — the rear corner on the building's left side).",
+          "facing_instruction": "Face along the back of the store, looking from the left rear corner toward the right rear corner.",
+          "provider_full_instruction": "Walk around behind the building to the left rear corner of the property (left as a customer faces the storefront). Face along the back of the store, looking toward the right rear corner. Capture rear turf, rear landscape beds, and the loading dock approach. Do not photograph the dock interior — that is lot sweeping scope.",
+          "frame_targets": [
+            "Rear turf",
+            "Rear landscape beds",
+            "Loading dock approach (exterior, not interior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Back-of-store landscaping is the most frequently missed scope area. This angle documents approach condition and loading dock surround."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-08",
+        "slot_id": "PP-08",
+        "lat": 38.05832832998284,
+        "lng": -84.4620971778597,
+        "camera_bearing": 90,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-08",
+          "display_name": "Back of Store — Approach 2",
+          "display_name_short": "Back of Store (approach 2)",
+          "zone_default": "D",
+          "standpoint_instruction": "Walk to the RIGHT rear corner of the property (right as a customer faces the storefront — opposite corner from PP-07).",
+          "facing_instruction": "Face along the back of the store, looking from the right rear corner toward the left rear corner. This is the mirror angle of Photo 7.",
+          "provider_full_instruction": "Walk to the right rear corner of the property (right as a customer faces the storefront — opposite from where you took Photo 7). Face along the back of the store, looking toward the left rear corner. Capture rear turf, rear landscape beds, the rear curb line, and the loading dock area from this opposite angle.",
+          "frame_targets": [
+            "Rear turf (from opposite angle)",
+            "Rear landscape beds",
+            "Loading dock area (exterior)",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Mirror angle of PP-07 — together they document both ends of the rear zone with no blind spots."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-09",
+        "slot_id": "PP-09",
+        "lat": 38.05833247819515,
+        "lng": -84.46207580802051,
+        "camera_bearing": 0,
+        "zone": "D",
+        "slot": {
+          "slot_id": "PP-09",
+          "display_name": "Back Wall — Detail",
+          "display_name_short": "Back Wall",
+          "zone_default": "D",
+          "standpoint_instruction": "From the same standpoint as PP-08, turn ninety degrees so you are facing the rear wall of the building head-on.",
+          "facing_instruction": "Face the back of the store, perpendicular to the rear building wall.",
+          "provider_full_instruction": "From the same spot as Photo 8, turn to face the rear wall of the building head-on. Capture the back wall, the rear landscape beds at the building base, and the rear curb line.",
+          "frame_targets": [
+            "Back wall of the building",
+            "Rear landscape beds at building base",
+            "Rear curb line"
+          ],
+          "why_it_matters": "Close-in detail of the rear building base — where weeds and debris accumulate and where Hawk-Eye focuses for rear-zone defects."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      },
+      {
+        "point_id": "07_bryan_station_lexington-pp-10",
+        "slot_id": "PP-10",
+        "lat": 38.05856687993472,
+        "lng": -84.46186079142295,
+        "camera_bearing": 180,
+        "zone": "A",
+        "slot": {
+          "slot_id": "PP-10",
+          "display_name": "Storefront — Head-On (Setback)",
+          "display_name_short": "Storefront (head-on)",
+          "zone_default": "A",
+          "standpoint_instruction": "Walk back into the front parking area, away from the building, until the entire width of the storefront fits in your phone-camera frame. Stand roughly centered on the building.",
+          "facing_instruction": "Face the storefront head-on, perpendicular to the building.",
+          "provider_full_instruction": "Walk back into the front parking lot until the entire width of the building fits in one phone-camera frame. Center yourself roughly on the storefront. Face the building head-on. Capture the full storefront, front landscape beds along the base of the building, the main entrance, and the drive lane in the foreground.",
+          "frame_targets": [
+            "Entire storefront, edge to edge of building",
+            "Main entrance centered or visible in frame",
+            "Front landscape beds running along building base",
+            "Drive lane in foreground"
+          ],
+          "why_it_matters": "The high-value establishing shot. Anchors the property's overall appearance in a single image and is the primary frame for customer-facing reports."
+        },
+        "captures": [],
+        "capture_status": "missing"
+      }
+    ],
+    "folder_id": "07_bryan_station_lexington"
+  }
+]
