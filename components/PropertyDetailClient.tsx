@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback } from "react";
+import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import type { Property } from "@/lib/types";
 import PropertyMap from "@/components/PropertyMap";
@@ -9,11 +10,13 @@ import PhotoPointCard from "@/components/PhotoPointCard";
 
 interface Props {
   property: Property;
-  initialSlot: string | null;
 }
 
-export default function PropertyDetailClient({ property, initialSlot }: Props) {
-  const [activeSlot, setActiveSlot] = useState<string | null>(initialSlot);
+export default function PropertyDetailClient({ property }: Props) {
+  const searchParams = useSearchParams();
+  const [activeSlot, setActiveSlot] = useState<string | null>(
+    searchParams.get("slot")
+  );
   const [showDiagram, setShowDiagram] = useState(false);
 
   const activePoint = property.photo_points.find((p) => p.slot_id === activeSlot) ?? null;
